@@ -7,4 +7,4 @@ This tool helps you generate a session string for Pyrogram in just a few steps.
 Run the following command in your terminal (copy and paste in one go):
 
 ```bash
-apt update && apt upgrade -y && pkg install -y git python && git clone https://github.com/SPARKBRO/generate && cd Generator && pip3 install Electrogram && python3 SessionString.py
+apt update && apt upgrade -y && pkg install -y git python && git clone https://github.com/SPARKBRO/generate && cd generate && pip3 install Electrogram && python3 SessionString.py
